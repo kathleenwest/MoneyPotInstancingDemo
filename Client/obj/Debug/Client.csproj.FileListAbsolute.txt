@@ -1,0 +1,13 @@
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\bin\Debug\Client.exe.config
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\bin\Debug\Client.exe
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\bin\Debug\Client.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.Client.resources
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.exe
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\bin\Debug\SharedLib.dll
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\bin\Debug\SharedLib.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\Client\obj\Debug\Client.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\SharedLib\bin\Release\SharedLib.dll
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\SharedLib\bin\Release\SharedLib.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\SharedLib\obj\Release\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\SharedLib\obj\Release\SharedLib.dll
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\SharedLib\obj\Release\SharedLib.pdb

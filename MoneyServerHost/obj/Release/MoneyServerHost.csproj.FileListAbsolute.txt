@@ -1,0 +1,14 @@
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\moneypot.jpg
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\MoneyServerHost.exe.config
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\MoneyServerHost.exe
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\MoneyServerHost.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\SharedLib.dll
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\bin\Release\SharedLib.pdb
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.Main.resources
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.Properties.Resources.resources
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.exe
+C:\Users\kathl\Dropbox\Projects\MoneyPotInstancingDemo\MoneyServerHost\obj\Release\MoneyServerHost.pdb
