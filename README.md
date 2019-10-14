@@ -2,6 +2,11 @@
  
  The Money Pot Problem – A Demo of Concurrency in Singleton and PerCall Service Behaviors in a WCF Service Application & Client "Tester" Windows Form Application
  
+ 
+ Project URL: 
+ https://portfolio.katiegirl.net/2019/10/14/the-money-pot-problem-a-demo-of-concurrency-in-singleton-and-percall-service-behaviors-in-a-wcf-service-application-client-tester-windows-form-application/
+ 
+ 
 ----------------------- 
 
 Problem Formulation
